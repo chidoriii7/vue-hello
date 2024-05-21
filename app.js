@@ -10,7 +10,8 @@ const { createApp, ref } = Vue
        
       return {
         titolo: 'sto usando vue',
-        paragrafo: 'ma ancora non ho fatto il bonus'
+        paragrafo: 'ma ancora non ho fatto il bonus',
+        image: '/akira1.jpg'
       }
     }
   }).mount('#app')
